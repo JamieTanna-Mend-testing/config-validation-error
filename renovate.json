@@ -6,6 +6,5 @@
 		"github>githubbounty/does-not-exist",
 		"local>JamieTanna-Mend-testing/config-validation-error:nested",
 		"local>JamieTanna-Mend-testing/config-validation-error:nested-invalid"
-	],
-	"rebaseWhen": "foo"
+	]
 }
