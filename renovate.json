@@ -7,7 +7,5 @@
 		"local>JamieTanna-Mend-testing/config-validation-error:nested",
 		"local>JamieTanna-Mend-testing/config-validation-error:nested-invalid"
 	],
-	"rebaseWhen": "foo",
-	"forkProcessing": "hello-there",
-	"gitLabIgnoreApprovals": 12345
+	"rebaseWhen": "foo"
 }
