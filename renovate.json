@@ -3,10 +3,5 @@
 	"extends": [
 		"config:best-practices",
 		"local>JamieTanna-Mend-testing/config-validation-error:nested"
-	],
-	"rebaseWhen": true,
-	"notARealOption": 1,
-	"schedule": [
-		"whenever"
 	]
 }
