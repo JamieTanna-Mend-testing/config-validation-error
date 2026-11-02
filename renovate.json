@@ -3,5 +3,9 @@
 	"extends": [
 		"config:best-practices"
 	],
-	"rebaseWhen": true
+	"rebaseWhen": true,
+	"notARealOption": 1,
+	"schedule": [
+		"whenever"
+	]
 }
