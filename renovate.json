@@ -3,7 +3,6 @@
 	"extends": [
 		"config:best-practices",
 		"./foo",
-		"github>JamieTanna-Mend-testing/does-not-exist",
 		"github>githubbounty/does-not-exist",
 		"local>JamieTanna-Mend-testing/config-validation-error:nested"
 	]

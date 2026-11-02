@@ -1,0 +1,5 @@
+{
+	"extends": [
+		"github>JamieTanna-Mend-testing/does-not-exist"
+	]
+}
